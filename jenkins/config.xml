@@ -28,6 +28,7 @@
        <string>/home/jenkins/ssh-keys:/home/jenkins/ssh-keys</string>
        <string>/var/run/docker.sock:/var/run/docker.sock</string>
        <string>/usr/bin/docker:/usr/bin/docker</string>
+       <string>/home/jenkins:/home/jenkins</string>
      </volumes>
      <volumesFrom2/>
      <environment>
